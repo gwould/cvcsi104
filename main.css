@@ -1,0 +1,146 @@
+body {
+    font-family: Arial, sans-serif;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 50px;
+}
+h1 {
+    color: #000000;
+}
+h2 {
+    color: #444;
+    font-size: 15px;
+    border-bottom: 2px solid black;
+}
+h3{
+    font-size: 15px;
+}
+p {
+    font-size: 15px;
+    margin-bottom: 15px;
+}
+.HV1{
+    margin-top: 40px;
+}
+.rowsx1{
+    margin-left: 10px;
+    margin-right: 50px;
+}
+.rowsx1 h1{
+    font-size: 15px;
+    border-bottom: 2px solid black;
+}
+.rowsx-item1{
+    display: flex;
+    /* margin-top: 20px; */
+   padding: 10px 0;
+    
+ 
+   
+    border-bottom: 1px solid #ddd;
+
+
+   
+}
+
+.rowsx-item-left1 li{
+    font-size: 14px;
+ 
+    
+}
+.rowsx-item1 li{
+    list-style: none;
+}
+/* .rowsx-item-left1{
+    width: 25%;
+} */
+.rowsx-item-right1{
+    margin-left: 100px;
+   
+   
+    
+}
+.rowsx-item-right1 li{
+    font-size: 13px;
+    
+}
+/* ----------------------------- KN----------------------*/
+    .roww{
+        margin-left: 80px;
+        margin-right: 50px;
+        padding-top: 30px;
+       
+    }
+    
+    .roww h1{
+        font-size: 15px;
+        
+        border-bottom: 2px solid black;
+     
+       
+        
+    }
+    .roww-text ul{
+        display: flex;
+        text-align: center;
+        align-items: center;
+        height: 10px;
+        font-size: 13px;
+        padding-top: 10px;
+        padding-left: 80px;
+        border-bottom: 1px solid #ddd;
+    }
+    .roww-text ul p{
+        padding-left: 150px;
+    }
+    .roww-text ul li{
+        list-style: none;
+       
+    }
+    /* -------------------------ST_____________________- */
+    .rowst1{
+        margin-left: 80px;
+        margin-right: 50px;
+        padding-top: 40px;
+    }
+   
+    .rowst1 h1{
+        font-size: 15px;
+        border-bottom: 2px solid black;
+    }
+    /* ------------------------------DA_------------------- */
+    .rowda1{
+        margin-left: 80px;
+        margin-right: 50px;
+        padding-top: 20px;
+    }
+    .rowda1 h1{
+        font-size: 15px;
+        border-bottom: 2px solid black;
+    }
+    .rowda1-text h2{
+        font-size: 14px;
+    }
+    .rowda1-text ul li{
+        font-size: 14px;
+    }
+    /* --------------------------LH--------------------- */
+    .rowlh{
+        margin-left: 80px;
+        margin-right: 50px;
+        padding-top: 20px;
+    }
+    .rowlh-text{
+        padding-left: 40px;
+    }
+    .rowlh-text ul li{
+        list-style: none;
+    }
+    .rowlh-text ul li a{
+        text-decoration: none;
+        color:blue;
+    }
+    .rowlh h1{
+        font-size: 15px;
+        border-bottom: 2px solid black;
+    }
